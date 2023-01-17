@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+added badges (#45)
