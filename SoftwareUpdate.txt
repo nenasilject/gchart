@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Compare plt.get_backend() in lowercase (#8409)
