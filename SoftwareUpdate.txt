@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Update Discord and Contributing Guide URLs (#9270)
