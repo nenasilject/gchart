@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Update CITATION.cff with cffinit corrections (#8658)
