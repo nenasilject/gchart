@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Move Explorer tests to scheduled CI (#8305)
