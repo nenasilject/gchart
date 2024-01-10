@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
