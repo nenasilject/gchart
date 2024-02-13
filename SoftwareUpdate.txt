@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Expand Model method type hinting (#8279)
