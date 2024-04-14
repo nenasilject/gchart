@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Update pyproject.toml and Docs (#7274)
