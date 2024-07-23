@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
