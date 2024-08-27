@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
